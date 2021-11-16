@@ -1,0 +1,1127 @@
+{
+    "Agriculture": {
+        "Starch|/icons/starch.png": [
+            {
+                "name": "Cocoyam"
+            },
+            {
+                "name": "Cassava"
+            },
+            {
+                "name": "Plantains"
+            },
+            {
+                "name": "Bananas"
+            },
+            {
+                "name": "Yams"
+            },
+            {
+                "name": "Potatoes"
+            },
+            {
+                "name": "Sweet potatoes"
+            },
+            {
+                "name": "Garri"
+            },
+            {
+                "name": "Corn"
+            },
+            {
+                "name": "Groundnuts"
+            },
+            {
+                "name": "Bobolo/miondo"
+            }
+        ],
+        "Vegetables|/icons/vegetable1.png": [
+            {
+                "name": "Cucumbers"
+            },
+            {
+                "name": "Bitter leaf"
+            },
+            {
+                "name": "Waterleaf"
+            },
+            {
+                "name": "Garden huckleberry"
+            },
+            {
+                "name": "Okra"
+            },
+            {
+                "name": "Cauliflower and broccoli "
+            },
+            {
+                "name": "Egusi"
+            },
+            {
+                "name": "Tomato"
+            },
+            {
+                "name": "Green leaf"
+            },
+            {
+                "name": "Pepper"
+            },
+            {
+                "name": "Carrots"
+            },
+            {
+                "name": "Salad"
+            }
+        ],
+        "Fruits|/icons/fruits.png": [
+            {
+                "name": "Lemon"
+            },
+            {
+                "name": "Orange"
+            },
+            {
+                "name": "Papaya"
+            },
+            {
+                "name": "Pineapples"
+            },
+            {
+                "name": "Apples"
+            },
+            {
+                "name": "Strawberries"
+            },
+            {
+                "name": "Watermelon"
+            },
+            {
+                "name": "Coconut"
+            },
+            {
+                "name": "Green leaf"
+            },
+            {
+                "name": "Mangoes"
+            },
+            {
+                "name": "Avocado"
+            },
+            {
+                "name": "Plums"
+            }
+        ],
+        "Cereals|/icons/Cereals.png": [
+            {
+                "name": "Wheat"
+            },
+            {
+                "name": "Rice"
+            },
+            {
+                "name": "Maize"
+            },
+            {
+                "name": "Oat"
+            },
+            {
+                "name": "Barley"
+            },
+            {
+                "name": "Millet"
+            }
+        ],
+        "Oils|/icons/oils.png": [
+            {
+                "name": "Coconut oil"
+            },
+            {
+                "name": "Palm oil"
+            },
+            {
+                "name": "Groundnut oil"
+            },
+            {
+                "name": "Vegetable oil"
+            }
+        ],
+        "Raw material": [
+            {
+                "name": "Cocoa"
+            },
+            {
+                "name": "Coffee"
+            },
+            {
+                "name": "Rubber"
+            },
+            {
+                "name": "Charcoal"
+            }
+        ],
+        "Livestock, poultry, fishery|/icons/livestock.png": [
+            {
+                "name": "Chicken"
+            },
+            {
+                "name": "Beef"
+            },
+            {
+                "name": "Pork"
+            },
+            {
+                "name": "Bushmeat"
+            },
+            {
+                "name": "Goats"
+            },
+            {
+                "name": "Duck"
+            },
+            {
+                "name": "Rabbits"
+            },
+            {
+                "name": "Snails"
+            },
+            {
+                "name": "Smoked fish"
+            },
+            {
+                "name": "Smoked beef"
+            },
+            {
+                "name": "Smoked chicken"
+            },
+            {
+                "name": "Mackerel"
+            },
+            {
+                "name": "Bar fish"
+            },
+            {
+                "name": "Tilapia fish"
+            },
+            {
+                "name": "Carp fish"
+            },
+            {
+                "name": "Jawbone fish"
+            },
+            {
+                "name": "Belt fish"
+            },
+            {
+                "name": "Sardines fish"
+            },
+            {
+                "name": "Crab"
+            },
+            {
+                "name": "Crayfish"
+            },
+            {
+                "name": "Shrimp"
+            }
+        ],
+        "Spices": [
+            {
+                "name": "Cameroon black pepper / Penja"
+            },
+            {
+                "name": "Cameroon white pepper"
+            },
+            {
+                "name": "Garlic"
+            },
+            {
+                "name": "Ginger"
+            },
+            {
+                "name": "Green spices"
+            },
+            {
+                "name": "Curry"
+            },
+            {
+                "name": "Djansang"
+            }
+        ],
+        "Coffee/Tea": [
+            {
+                "name": "Coffee"
+            },
+            {
+                "name": "Tea"
+            }
+        ],
+        "Beans": [
+            {
+                "name": "Red beans"
+            },
+            {
+                "name": "Black beans"
+            },
+            {
+                "name": "White beans"
+            },
+            {
+                "name": "Senegalese beans"
+            },
+            {
+                "name": "Koki beans"
+            }
+        ],
+        "Finished Branded Products": [
+            {
+                "name": "Peanuts"
+            },
+            {
+                "name": "Chocolate"
+            },
+            {
+                "name": "Jam"
+            }
+        ],
+        "Dairy|/icons/dairy.png": [
+            {
+                "name": "Yoghurt"
+            },
+            {
+                "name": "Milk"
+            },
+            {
+                "name": "Butter"
+            },
+            {
+                "name": "Cheese"
+            },
+            {
+                "name": "Ice cream"
+            }
+        ]
+    },
+    "Electronics": {
+        "Phone and accessories|/icons/phone.png": [
+            {
+                "name": "Tecno"
+            },
+            {
+                "name": "Infinix"
+            },
+            {
+                "name": "Samsung"
+            },
+            {
+                "name": "Iphone"
+            },
+            {
+                "name": "Itel"
+            },
+            {
+                "name": "Huawei"
+            },
+            {
+                "name": "HTC"
+            },
+            {
+                "name": "LG"
+            },
+            {
+                "name": "Feature phone"
+            },
+            {
+                "name": "Nokia"
+            },
+            {
+                "name": "Chargers"
+            },
+            {
+                "name": "Batteries"
+            },
+            {
+                "name": "Earphones/headsets"
+            },
+            {
+                "name": "Phone casing"
+            }
+        ],
+        "Home Appliances|/icons/home appliances.png": [
+            {
+                "name": "Refrigerator"
+            },
+            {
+                "name": "Blender"
+            },
+            {
+                "name": "Pressing Iron"
+            },
+            {
+                "name": "Microwave"
+            },
+            {
+                "name": "Waterheater"
+            },
+            {
+                "name": "AC"
+            },
+            {
+                "name": "Fan"
+            },
+            {
+                "name": "LG"
+            },
+            {
+                "name": "TV/Radio"
+            },
+            {
+                "name": "Generator"
+            },
+            {
+                "name": "V voltage stabiliser/regulator"
+            },
+            {
+                "name": "Solar system"
+            },
+            {
+                "name": "Gas cooker"
+            }
+        ],
+        "Computers, Tablets and accessories|/icons/computer.png": [
+            {
+                "name": "Laptops"
+            },
+            {
+                "name": "Desktops"
+            },
+            {
+                "name": "Video Games"
+            },
+            {
+                "name": "Gaming Consoles"
+            },
+            {
+                "name": "Monitors"
+            },
+            {
+                "name": "Computer accessories"
+            },
+            {
+                "name": "Tablets"
+            },
+            {
+                "name": "Storage and Hard drives"
+            }
+        ],
+        "Office Electronics|/icons/office.png": [
+            {
+                "name": "Laptops"
+            },
+            {
+                "name": "Desktops"
+            },
+            {
+                "name": "Video Games"
+            },
+            {
+                "name": "Scanners/Printers"
+            },
+            {
+                "name": "AC"
+            }
+        ]
+    },
+    "Restaurants": {
+        "African food|/icons/Africa food.png": [
+            {
+                "name": "Kati-kati"
+            },
+            {
+                "name": "Eru"
+            },
+            {
+                "name": "Ndole"
+            },
+            {
+                "name": "Pepper soup"
+            },
+            {
+                "name": "Grilled fish"
+            },
+            {
+                "name": "Okok"
+            },
+            {
+                "name": "Mbongo Tchobi"
+            },
+            {
+                "name": "Koki"
+            },
+            {
+                "name": "Achu/taro"
+            },
+            {
+                "name": "Okra"
+            },
+            {
+                "name": "Ndjama Ndjama"
+            }
+        ],
+        "Fast food / Street food|/icons/fast food.png": [
+            {
+                "name": "Beef"
+            },
+            {
+                "name": "Chai Tea"
+            },
+            {
+                "name": "Chicken"
+            },
+            {
+                "name": "Grilled fish"
+            },
+            {
+                "name": "Hamburger"
+            },
+            {
+                "name": "Natural Juice"
+            },
+            {
+                "name": "Omelets"
+            },
+            {
+                "name": "Pork"
+            },
+            {
+                "name": "Puff-puff and beans"
+            },
+            {
+                "name": "Senegalese "
+            },
+            {
+                "name": "Shawarma"
+            },
+            {
+                "name": "Soya"
+            }
+        ],
+        "European food|/icons/european food.png": [],
+        "Asian food|/icons/Asia food.png": [],
+        "Delivery": [],
+        "Vegetarian": [],
+        "Catering|/icons/catering.png": [],
+        "Pizza|/icons/pizza.png": [],
+        "Cakes and Pastries / Bakery|/icons/bakery.png": [],
+        "Bars|/icons/bars.png": [
+            {
+                "name": "Non-alcoholic drinks"
+            },
+            {
+                "name": "Alcoholic drinks"
+            },
+            {
+                "name": "Snacks"
+            },
+            {
+                "name": "Nightclubs"
+            }
+        ]
+    },
+    "Clothing and accessories": {
+        "Women clothing|/icons/women clothing.png": [
+            {
+                "name": "Sweaters"
+            },
+            {
+                "name": "Jeans"
+            },
+            {
+                "name": "Tops"
+            },
+            {
+                "name": "Suits"
+            },
+            {
+                "name": "Skirt"
+            },
+            {
+                "name": "Gowns"
+            },
+            {
+                "name": "Weddings dresses"
+            },
+            {
+                "name": "Coats"
+            }
+        ],
+        "Women accessories|/icons/women accesories.png": [
+            {
+                "name": "Perfumes"
+            },
+            {
+                "name": "Watches add by mobile"
+            },
+            {
+                "name": "Bags"
+            },
+            {
+                "name": "Jewelry"
+            },
+            {
+                "name": "Shoes"
+            },
+            {
+                "name": "Caps"
+            },
+            {
+                "name": "Head bands"
+            }
+        ],
+        "Men Clothing|/icons/men clothing.png": [
+            {
+                "name": "Shirts"
+            },
+            {
+                "name": "Jeans"
+            },
+            {
+                "name": "Suits"
+            },
+            {
+                "name": "Singlets"
+            },
+            {
+                "name": "Sweaters"
+            }
+        ]
+    },
+    "Public Institutions": {
+        "Mayor Councils|/icons/mayor council.png": [
+            {
+                "name": "Regions"
+            },
+            {
+                "name": "Division"
+            },
+            {
+                "name": "Sub-divisions"
+            },
+            {
+                "name": "City"
+            }
+        ],
+        "Schools|/icons/school.png": [
+            {
+                "name": "Public"
+            },
+            {
+                "name": "Private"
+            },
+            {
+                "name": "Regions"
+            },
+            {
+                "name": "Division"
+            },
+            {
+                "name": "Sub-divisions"
+            },
+            {
+                "name": "City"
+            }
+        ],
+        "Hospitals|/icons/hospital.png": [
+            {
+                "name": "Public"
+            },
+            {
+                "name": "Private"
+            },
+            {
+                "name": "Regions"
+            },
+            {
+                "name": "Division"
+            },
+            {
+                "name": "Sub-divisions"
+            },
+            {
+                "name": "City"
+            }
+        ],
+        "Ministries|/icons/ministries.png": [
+            {
+                "name": "Regions"
+            },
+            {
+                "name": "Division"
+            },
+            {
+                "name": "Sub-divisions"
+            },
+            {
+                "name": "City"
+            }
+        ],
+        "Men": [
+            {
+                "name": "Suits"
+            },
+            {
+                "name": "Dashiki"
+            },
+            {
+                "name": "Suits jacket"
+            },
+            {
+                "name": "African attires"
+            },
+            {
+                "name": "Ankara"
+            },
+            {
+                "name": "Traditional dresses"
+            },
+            {
+                "name": "Shirts"
+            }
+        ],
+        "Women": [
+            {
+                "name": "Suits"
+            },
+            {
+                "name": "Female suits"
+            },
+            {
+                "name": "African print grown"
+            },
+            {
+                "name": "Traditional wedding dress"
+            },
+            {
+                "name": "Ankara"
+            },
+            {
+                "name": "Wax dress"
+            },
+            {
+                "name": "Traditional dress"
+            },
+            {
+                "name": "Shirt and shirt"
+            }
+        ],
+        "Male Kids": [
+            {
+                "name": "School uniform"
+            },
+            {
+                "name": "Shirt"
+            },
+            {
+                "name": "Kid Suit"
+            },
+            {
+                "name": "Kid Dashiki"
+            },
+            {
+                "name": "Kid Suits jacket "
+            },
+            {
+                "name": "Kid African attires"
+            },
+            {
+                "name": "Kid Ankara "
+            },
+            {
+                "name": "Kid Traditional dresses"
+            }
+        ],
+        "Female kids": [
+            {
+                "name": "Kid African print grown"
+            },
+            {
+                "name": "Kid Ankara"
+            },
+            {
+                "name": "Kid Wax dress"
+            },
+            {
+                "name": "Kid Traditional dress"
+            },
+            {
+                "name": "Kid Shirt and shirt"
+            },
+            {
+                "name": "Kid School uniform"
+            }
+        ]
+    },
+    "Health unit|/icons/hosplital.png": {
+        "Hospitals": [
+            {
+                "name": "Public and Private"
+            },
+            {
+                "name": "Regional"
+            }
+        ],
+        "Clinics|/icons/clenic.png": [
+            {
+                "name": "Dental clinics"
+            },
+            {
+                "name": "Optics "
+            },
+            {
+                "name": "physical therapy"
+            },
+            {
+                "name": "Maternal Health"
+            }
+        ],
+        "COVID-19|/icons/covid.png": [],
+        "Pharmacies|/icons/pharmacy.png": [
+            {
+                "name": "24/7"
+            }
+        ]
+    },
+    "Handicrafts|/icons/handicraft.png": {
+        "Home Decor": [
+            {
+                "name": "Juju hats"
+            },
+            {
+                "name": "Beaded Baskets"
+            },
+            {
+                "name": "Statuses"
+            },
+            {
+                "name": "Carpentry"
+            },
+            {
+                "name": "Paintings"
+            },
+            {
+                "name": "Omelet"
+            },
+            {
+                "name": "chicken"
+            }
+        ],
+        "Textile": [
+            {
+                "name": "Embroidery"
+            },
+            {
+                "name": "Knitting"
+            },
+            {
+                "name": "Weaving"
+            },
+            {
+                "name": "Tailoring"
+            }
+        ]
+    },
+    "AutoMechanic|/icons/mechanic.png": {
+        "Car care": [
+            {
+                "name": "Car wash"
+            },
+            {
+                "name": "mechanic"
+            },
+            {
+                "name": "Parking"
+            },
+            {
+                "name": "maintenance products"
+            }
+        ],
+        "Spare parts": [
+            {
+                "name": "Tires"
+            },
+            {
+                "name": "Headlamps/tail lights"
+            },
+            {
+                "name": "Steering wheel"
+            }
+        ],
+        "Auto Dealers": [
+            {
+                "name": "Car sales and rentals"
+            },
+            {
+                "name": "Bike sales and rentals"
+            }
+        ]
+    },
+    "Education|/icons/education.png": {
+        "Primary Education": [
+            {
+                "name": "Public schools"
+            },
+            {
+                "name": "Private schools"
+            }
+        ],
+        "Secondary Education": [
+            {
+                "name": "Public schools"
+            },
+            {
+                "name": "Private schools"
+            }
+        ],
+        "Tertiary Education": [
+            {
+                "name": "Public universities"
+            },
+            {
+                "name": "Private universities"
+            }
+        ],
+        "Vocational training centers": [
+            {
+                "name": "Juju hats"
+            },
+            {
+                "name": "Biomedical"
+            },
+            {
+                "name": "Cooking and Catering"
+            },
+            {
+                "name": "Tailoring"
+            },
+            {
+                "name": "Construction"
+            },
+            {
+                "name": "Electrician"
+            },
+            {
+                "name": "Mechanics"
+            },
+            {
+                "name": "Plumber"
+            },
+            {
+                "name": "Beautician"
+            },
+            {
+                "name": "IT and Multimedia"
+            }
+        ]
+    },
+    "Men and Women Grooming|/icons/men accessories.png": {
+        "Women Grooming": [
+            {
+                "name": "massage"
+            },
+            {
+                "name": "skin care"
+            },
+            {
+                "name": "hair salon"
+            },
+            {
+                "name": "tattoos"
+            },
+            {
+                "name": "makeup salon "
+            },
+            {
+                "name": "teeth whitening"
+            },
+            {
+                "name": "manicure and pedicure"
+            },
+            {
+                "name": "Eyelashes"
+            },
+            {
+                "name": "Perfume"
+            }
+        ],
+        "Men Grooming": [
+            {
+                "name": "Massage"
+            },
+            {
+                "name": "Manicure and Pedicure"
+            },
+            {
+                "name": "Barbing salon"
+            },
+            {
+                "name": "Tattoos"
+            },
+            {
+                "name": "Teeth whitening"
+            },
+            {
+                "name": "teeth whitening"
+            },
+            {
+                "name": "Perfume"
+            }
+        ]
+    },
+    "Transport|/icons/transport.png": {
+        "bus parks": [],
+        "car parks": [],
+        "train stations": [],
+        "seaports": [],
+        "Taxis": [],
+        "Import/Export": []
+    },
+    "Hotels|/icons/ministries.png": {
+        "Hotels": [],
+        "Resorts": [],
+        "Motels": []
+    },
+    "Gas stations|/icons/gas_station.png": {},
+    "Professional and home services": {
+        "Men Accessories|/icons/men accesories.png": [
+            {
+                "name": "Watches"
+            },
+            {
+                "name": "Perfumes"
+            },
+            {
+                "name": "Bags"
+            },
+            {
+                "name": "Jewelry"
+            },
+            {
+                "name": "Caps"
+            },
+            {
+                "name": "Gloves"
+            },
+            {
+                "name": "Shoes"
+            }
+        ],
+        "Legal service": [
+            {
+                "name": "Lawyers"
+            },
+            {
+                "name": "Business consulting"
+            },
+            {
+                "name": "Patent law"
+            }
+        ],
+        "Marketing": [
+            {
+                "name": "Hostesses"
+            },
+            {
+                "name": "Advertising"
+            }
+        ],
+        "Web, Graphic Design and Printing": [
+            {
+                "name": "Printing add by mobile"
+            },
+            {
+                "name": "graphics design"
+            },
+            {
+                "name": "computer programmers"
+            },
+            {
+                "name": "computer hardware"
+            },
+            {
+                "name": "computer hosting services"
+            }
+        ],
+        "Event Planning and Rentals": [
+            {
+                "name": "Event planning"
+            },
+            {
+                "name": "Rentals"
+            },
+            {
+                "name": "Interior Design"
+            }
+        ],
+        "Accounting": [],
+        "Employment agency": [],
+        "Real Estate Agency and Land": [
+            {
+                "name": "Real Estate Agency"
+            },
+            {
+                "name": "property management"
+            },
+            {
+                "name": "commercial real estate"
+            },
+            {
+                "name": "shared office space"
+            }
+        ],
+        "Housing and Construction": [
+            {
+                "name": "Plumbing"
+            },
+            {
+                "name": "Key locksmiths  add by mobile"
+            },
+            {
+                "name": "Contractors"
+            },
+            {
+                "name": "Gardeners add by mobile"
+            },
+            {
+                "name": "Carpenters"
+            },
+            {
+                "name": "Painters"
+            },
+            {
+                "name": "Security system add by mobile "
+            },
+            {
+                "name": "Interior design"
+            },
+            {
+                "name": "Electrician"
+            },
+            {
+                "name": "Architect"
+            }
+        ],
+        "Internet and Media": [
+            {
+                "name": "TV Cable"
+            },
+            {
+                "name": "Internet services"
+            },
+            {
+                "name": "Telephone services"
+            }
+        ]
+    },
+    "Tailoring|/icons/women accesories.png": {},
+    "Handicraft|/icons/handicraft.png": {},
+    "Professional service|/icons/profesional.png": {}
+}
